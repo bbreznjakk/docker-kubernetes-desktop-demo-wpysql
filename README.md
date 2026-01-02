@@ -1,5 +1,5 @@
 # 1. Project
-Flask CRUD Application with PostgreSQL: Containerize & Orchestrated & Clustered
+Flask CRUD Application with PostgreSQL: Containerized & Orchestrated & Clustered
 
 # 2. Description
 This repository implements a simple CRUD application for managing a book inventory, build with Flask, PostgreSQL.
